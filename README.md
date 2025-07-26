@@ -32,7 +32,7 @@ The app displays the current month with proper day alignment and allows easy nav
 3. The current day is highlighted automatically.
 
 ## 🤝 Contribution
-Contributions are welcome! Fork the repo, create a branch, and submit a pull request.
+Contributions are welcome! Fork the repo, create a branch and submit a pull request.
 
 ---
 
