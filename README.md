@@ -56,7 +56,6 @@ Contributions are welcome! Fork the repository, create a branch and submit a pul
 ## 👩‍💻 Author
 
 **Mistura Ishola (Turah Rae)**  
-Frontend Developer  
 🔗 [GitHub](https://github.com/TurahRae) 
 
 ---
