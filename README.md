@@ -6,7 +6,7 @@ The app displays the current month with properly aligned days and allows easy na
 ---
 
 ## 🌐 Live Demo
-🔗 [Click to View](https://turahrae.github.io/Calendar-App/)
+🔗 [Click to View](https://misturadev.github.io/Calendar-App/)
 
 ---
 
@@ -55,7 +55,8 @@ Contributions are welcome! Fork the repository, create a branch and submit a pul
 
 ## 👩‍💻 Author
 
-**Mistura Ishola (Turah Rae)**  
-🔗 [GitHub](https://github.com/TurahRae) 
+**Mistura Ishola**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
+
 
 ---
