@@ -53,7 +53,7 @@ Contributions are welcome! Fork the repository, create a branch and submit a pul
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Developer
 
 **Mistura Ishola**  
 🔗 [LinkedIn](https://www.linkedin.com/in/mistura-ishola/)
